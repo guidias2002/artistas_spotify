@@ -1,0 +1,16 @@
+.header {
+    background-color: #000;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    width: 80%;
+    justify-content: space-between;
+    margin: 0 auto;
+    height: 80px;
+}
+
+.logo {
+    width: 60px;
+}

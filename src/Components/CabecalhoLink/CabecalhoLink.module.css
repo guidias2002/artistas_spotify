@@ -1,0 +1,10 @@
+.link {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 10px;
+    font-weight: 700;
+}
+
+.linkDestacado {
+    border-bottom: 2px solid #2EBD59;
+}
